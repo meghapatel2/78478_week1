@@ -8,7 +8,7 @@ package pillboxarray;
 
 /**
  *
- * @author Megha
+ * @author Megha,2019 my first git program
  */
 public class PillBoxArray {
 
