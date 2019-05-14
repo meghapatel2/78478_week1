@@ -27,7 +27,7 @@ public class PillBoxArray {
         
         for(int i=0;i<pillBox.length;i++)
         {
-            System.out.print(pillBox[i]);
+           // System.out.print(pillBox[i]);
         }
             System.out.print("\n");
         
