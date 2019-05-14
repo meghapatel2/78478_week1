@@ -7,7 +7,7 @@
 package pillboxarray;
 
 /**
- * Section 78477
+ * Section 78477 Tuesday section
  * @author Megha,2019
  */
 public class PillBoxArray {
@@ -27,7 +27,7 @@ public class PillBoxArray {
         
         for(int i=0;i<pillBox.length;i++)
         {
-           // System.out.print(pillBox[i]);
+            System.out.print(pillBox[i]);
         }
             System.out.print("\n");
         
